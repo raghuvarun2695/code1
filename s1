@@ -7,7 +7,7 @@ printf("enter the first number");
 scanf("%d",&a);
 printf("enter the second number");
 scanf("%d",&b);
-c=a+b;
-printf("the sum is:%d",c);
+c=a*b;
+printf("the value is:%d",c);
 return 0;
 }
